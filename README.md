@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/ArunkumarvelmuruganAZ400/ContosoAir/_apis/build/status/TasteTongue.ContosoAir?branchName=master)](https://dev.azure.com/ArunkumarvelmuruganAZ400/ContosoAir/_build/latest?definitionId=4&branchName=master)
 
 
 # Microsoft.Github CI Demo
